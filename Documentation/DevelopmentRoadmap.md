@@ -16,7 +16,7 @@ Milestones are defined in `MasterPrompt.md` §15. Each requires director sign-of
 
 - [x] Inspect workspace (empty; no prior project) — 2026-10-31
 - [x] Git for Windows 2.56 installed (includes Git LFS)
-- [ ] Visual Studio 2022 Community + Unreal C++ workloads (MSVC v143) — installing
+- [x] Visual Studio 2022 Community + Unreal C++ workloads — MSVC 14.44.35207 (v143), Windows SDK 10.0.22621 / 10.0.26100
 - [ ] Unreal Engine 5 installed via Epic Games Launcher (manual — director)
 - [ ] Unreal C++ project `DeliveryGame` created (blank C++ template)
 - [x] Git repository initialised, LFS enabled, first commit
