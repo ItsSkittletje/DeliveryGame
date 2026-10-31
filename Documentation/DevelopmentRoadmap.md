@@ -4,7 +4,7 @@ Milestones are defined in `MasterPrompt.md` §15. Each requires director sign-of
 
 | # | Milestone | Status |
 |---|-----------|--------|
-| 1 | Project Foundation | **Complete pending director test & sign-off** |
+| 1 | Project Foundation | **Complete** (2026-11-01) |
 | 2 | Player Experience | Not started — awaiting M1 sign-off |
 | 3 | First Farmhouse | Not started |
 | 4 | Horror Systems | Not started |
@@ -27,4 +27,4 @@ Milestones are defined in `MasterPrompt.md` §15. Each requires director sign-of
 - [x] Headless boot verified — loads `L_DevTest`, game class `DGGameMode`, no input warnings
 - [x] Technical documentation: TechnicalArchitecture.md
 - [x] Copyright documentation skeletons
-- [ ] Director play-test in editor (walk + mouse look)
+- [x] Director play-test in editor (walk + mouse look) — approved 2026-11-01
