@@ -26,4 +26,10 @@ public:
 
 	UPROPERTY(Config, EditAnywhere, Category = "Input|Actions")
 	TSoftObjectPtr<UInputAction> LookAction;
+
+	UPROPERTY(Config, EditAnywhere, Category = "Input|Actions")
+	TSoftObjectPtr<UInputAction> SprintAction;
+
+	UPROPERTY(Config, EditAnywhere, Category = "Input|Actions")
+	TSoftObjectPtr<UInputAction> CrouchAction;
 };
